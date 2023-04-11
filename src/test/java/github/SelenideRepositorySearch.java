@@ -40,7 +40,6 @@ public class SelenideRepositorySearch {
         "  }\n" +
         "}")
         );
-        sleep(5000);
     }
 
 }
